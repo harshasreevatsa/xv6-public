@@ -38,7 +38,7 @@ ERROR REPORTS
 We switched our focus to xv6 on RISC-V; see the mit-pdos/xv6-riscv.git
 repository on github.com.
 
-BUILDING AND RUNNING XV6
+BUILDING AND RUNNING XV6.
 
 To build xv6 on an x86 ELF machine (like Linux or FreeBSD), run
 "make". On non-x86 or non-ELF machines (like OS X, even on x86), you
